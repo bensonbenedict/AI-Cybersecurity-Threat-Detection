@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+*.pcap
+
+live_capture.pcap
+live_flows.csv
+
+datasets/
+
+venv/
+.env
