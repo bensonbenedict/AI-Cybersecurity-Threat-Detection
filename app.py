@@ -13,7 +13,7 @@ st.set_page_config(
 apply_custom_css()
 
 # Header Section
-st.title("AI Cybersecurity Threat Intelligence Dashboard")
+st.title("AI Cybersecurity Threat Detection Dashboard")
 st.markdown("##### Real-time network intrusion analysis & threat profiling using ML models.")
 
 # Load models and assets
